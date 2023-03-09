@@ -1,0 +1,19 @@
+{
+  "name": "01.flagsscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Rafael García",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^18.2.1",
+    "form-data": "^4.0.0",
+    "mongoose": "^7.0.0",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.7.2"
+  }
+}

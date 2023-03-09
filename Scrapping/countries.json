@@ -1,0 +1,1526 @@
+[
+  {
+    "country": "Afganistán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/af.png",
+    "population": "32225560",
+    "area": "652230"
+  },
+  {
+    "country": "Aland",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ax.png",
+    "population": "29789",
+    "area": "1580"
+  },
+  {
+    "country": "Albania",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/al.png",
+    "population": "2862427",
+    "area": "28748"
+  },
+  {
+    "country": "Alemania",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/de.png",
+    "population": "83149300",
+    "area": "357114"
+  },
+  {
+    "country": "Andorra",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ad.png",
+    "population": "77543",
+    "area": "468"
+  },
+  {
+    "country": "Angola",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ao.png",
+    "population": "31127674",
+    "area": "1246700"
+  },
+  {
+    "country": "Anguila",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ai.png",
+    "population": "14869",
+    "area": "91"
+  },
+  {
+    "country": "Antártida",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/aq.png",
+    "population": "3000",
+    "area": "14000000"
+  },
+  {
+    "country": "Antigua y Barbuda",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ag.png",
+    "population": "96453",
+    "area": "442"
+  },
+  {
+    "country": "Arabia Saudita",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sa.png",
+    "population": "34218169",
+    "area": "2149690"
+  },
+  {
+    "country": "Argelia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/dz.png",
+    "population": "43000000",
+    "area": "2381740"
+  },
+  {
+    "country": "Argentina",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ar.png",
+    "population": "44938712",
+    "area": "2780400"
+  },
+  {
+    "country": "Armenia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/am.png",
+    "population": "2957500",
+    "area": "29743"
+  },
+  {
+    "country": "Aruba",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/aw.png",
+    "population": "112309",
+    "area": "180"
+  },
+  {
+    "country": "Australia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/au.png",
+    "population": "25627280",
+    "area": "7692020"
+  },
+  {
+    "country": "Austria",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/at.png",
+    "population": "8902600",
+    "area": "83871"
+  },
+  {
+    "country": "Azerbaiyán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/az.png",
+    "population": "10067108",
+    "area": "86600"
+  },
+  {
+    "country": "Bahamas",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bs.png",
+    "population": "385340",
+    "area": "13943"
+  },
+  {
+    "country": "Baréin",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bh.png",
+    "population": "1543300",
+    "area": "778"
+  },
+  {
+    "country": "Bangladesh",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bd.png",
+    "population": "168163758",
+    "area": "147570"
+  },
+  {
+    "country": "Barbados",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bb.png",
+    "population": "287025",
+    "area": "430"
+  },
+  {
+    "country": "Bélgica",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/be.png",
+    "population": "11522169",
+    "area": "30528"
+  },
+  {
+    "country": "Belice",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bz.png",
+    "population": "408487",
+    "area": "22966"
+  },
+  {
+    "country": "Benín",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bj.png",
+    "population": "11733059",
+    "area": "114763"
+  },
+  {
+    "country": "Bermudas",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bm.png",
+    "population": "64027",
+    "area": "54"
+  },
+  {
+    "country": "Bielorrusia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/by.png",
+    "population": "9413446",
+    "area": "207600"
+  },
+  {
+    "country": "Bolivia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bo.png",
+    "population": "11469896",
+    "area": "1098580"
+  },
+  {
+    "country": "Bosnia y Herzegovina",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ba.png",
+    "population": "3301000",
+    "area": "51209"
+  },
+  {
+    "country": "Botsuana",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bw.png",
+    "population": "2338851",
+    "area": "581730"
+  },
+  {
+    "country": "Brasil",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/br.png",
+    "population": "211173432",
+    "area": "8515770"
+  },
+  {
+    "country": "Brunéi",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bn.png",
+    "population": "442400",
+    "area": "5765"
+  },
+  {
+    "country": "Bulgaria",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bg.png",
+    "population": "7000039",
+    "area": "111002"
+  },
+  {
+    "country": "Burkina Faso",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bf.png",
+    "population": "20870060",
+    "area": "274222"
+  },
+  {
+    "country": "Burundi",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bi.png",
+    "population": "10953317",
+    "area": "27834"
+  },
+  {
+    "country": "Bután",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bt.png",
+    "population": "741672",
+    "area": "38394"
+  },
+  {
+    "country": "Cabo Verde",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cv.png",
+    "population": "550483",
+    "area": "4033"
+  },
+  {
+    "country": "Camboya",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/kh.png",
+    "population": "15288489",
+    "area": "181035"
+  },
+  {
+    "country": "Camerún",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cm.png",
+    "population": "25876000",
+    "area": "475442"
+  },
+  {
+    "country": "Canadá",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ca.png",
+    "population": "37935814",
+    "area": "9984670"
+  },
+  {
+    "country": "Caribe Neerlandés",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bq.png",
+    "population": "25157",
+    "area": "328"
+  },
+  {
+    "country": "Catar",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/qa.png",
+    "population": "2747282",
+    "area": "11586"
+  },
+  {
+    "country": "Chad",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/td.png",
+    "population": "15692969",
+    "area": "1284000"
+  },
+  {
+    "country": "Chile",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cl.png",
+    "population": "19107216",
+    "area": "756102"
+  },
+  {
+    "country": "China",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cn.png",
+    "population": "1401492920",
+    "area": "9596960"
+  },
+  {
+    "country": "Chipre",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cy.png",
+    "population": "875900",
+    "area": "9251"
+  },
+  {
+    "country": "Ciudad del Vaticano",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/va.png",
+    "population": "799",
+    "area": "0.44"
+  },
+  {
+    "country": "Colombia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/co.png",
+    "population": "49395678",
+    "area": "1141750"
+  },
+  {
+    "country": "Comoras",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/km.png",
+    "population": "873724",
+    "area": "1862"
+  },
+  {
+    "country": "Congo",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cg.png",
+    "population": "5380508",
+    "area": "342000"
+  },
+  {
+    "country": "Congo (Rep. Dem.)",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cd.png",
+    "population": "86790567",
+    "area": "2344860"
+  },
+  {
+    "country": "Corea del Norte",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/kp.png",
+    "population": "25450000",
+    "area": "120540"
+  },
+  {
+    "country": "Corea del Sur",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/kr.png",
+    "population": "51780579",
+    "area": "100210"
+  },
+  {
+    "country": "Costa de Marfil",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ci.png",
+    "population": "25823071",
+    "area": "322463"
+  },
+  {
+    "country": "Costa Rica",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cr.png",
+    "population": "5058007",
+    "area": "51100"
+  },
+  {
+    "country": "Croacia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/hr.png",
+    "population": "4076246",
+    "area": "56594"
+  },
+  {
+    "country": "Cuba",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cu.png",
+    "population": "11209628",
+    "area": "109884"
+  },
+  {
+    "country": "Curazao",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cw.png",
+    "population": "158665",
+    "area": "444"
+  },
+  {
+    "country": "Dinamarca",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/dk.png",
+    "population": "5822763",
+    "area": "43094"
+  },
+  {
+    "country": "Yibuti",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/dj.png",
+    "population": "1078373",
+    "area": "23200"
+  },
+  {
+    "country": "Dominica",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/dm.png",
+    "population": "71808",
+    "area": "751"
+  },
+  {
+    "country": "Ecuador",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ec.png",
+    "population": "17431712",
+    "area": "276841"
+  },
+  {
+    "country": "Egipto",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/eg.png",
+    "population": "100052943",
+    "area": "1002450"
+  },
+  {
+    "country": "El Salvador",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sv.png",
+    "population": "6704864",
+    "area": "21041"
+  },
+  {
+    "country": "Emiratos Árabes Unidos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ae.png",
+    "population": "9770529",
+    "area": "83600"
+  },
+  {
+    "country": "Eritrea",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/er.png",
+    "population": "3497117",
+    "area": "117600"
+  },
+  {
+    "country": "Escocia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gb-sct.png",
+    "population": "5424800",
+    "area": "77933"
+  },
+  {
+    "country": "Eslovaquia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sk.png",
+    "population": "5456362",
+    "area": "49037"
+  },
+  {
+    "country": "Eslovenia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/si.png",
+    "population": "2094060",
+    "area": "20273"
+  },
+  {
+    "country": "España",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/es.png",
+    "population": "47100396",
+    "area": "505992"
+  },
+  {
+    "country": "Estados Unidos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/us.png",
+    "population": "329345637",
+    "area": "9833520"
+  },
+  {
+    "country": "Estonia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ee.png",
+    "population": "1328360",
+    "area": "45227"
+  },
+  {
+    "country": "Etiopía",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/et.png",
+    "population": "98665000",
+    "area": "1104300"
+  },
+  {
+    "country": "Filipinas",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ph.png",
+    "population": "108323702",
+    "area": "300000"
+  },
+  {
+    "country": "Finlandia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/fi.png",
+    "population": "5527573",
+    "area": "338424"
+  },
+  {
+    "country": "Fiyi",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/fj.png",
+    "population": "884887",
+    "area": "18272"
+  },
+  {
+    "country": "Francia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/fr.png",
+    "population": "67064000",
+    "area": "640679"
+  },
+  {
+    "country": "Gabón",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ga.png",
+    "population": "2172579",
+    "area": "267668"
+  },
+  {
+    "country": "Gales",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gb-wls.png",
+    "population": "3139000",
+    "area": "20779"
+  },
+  {
+    "country": "Gambia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gm.png",
+    "population": "2347706",
+    "area": "11295"
+  },
+  {
+    "country": "Georgia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ge.png",
+    "population": "3723464",
+    "area": "69700"
+  },
+  {
+    "country": "Ghana",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gh.png",
+    "population": "30280811",
+    "area": "238533"
+  },
+  {
+    "country": "Gibraltar",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gi.png",
+    "population": "33701",
+    "area": "6"
+  },
+  {
+    "country": "Grecia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gr.png",
+    "population": "10724599",
+    "area": "131957"
+  },
+  {
+    "country": "Granada",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gd.png",
+    "population": "112003",
+    "area": "344"
+  },
+  {
+    "country": "Groenlandia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gl.png",
+    "population": "56081",
+    "area": "2166090"
+  },
+  {
+    "country": "Guadalupe",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gp.png",
+    "population": "395700",
+    "area": "1628"
+  },
+  {
+    "country": "Guam",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gu.png",
+    "population": "172400",
+    "area": "549"
+  },
+  {
+    "country": "Guatemala",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gt.png",
+    "population": "16604026",
+    "area": "108889"
+  },
+  {
+    "country": "Guayana Francesa",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gf.png",
+    "population": "290691",
+    "area": "83534"
+  },
+  {
+    "country": "Guernsey",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gg.png",
+    "population": "62792",
+    "area": "78"
+  },
+  {
+    "country": "Guinea",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gn.png",
+    "population": "12218357",
+    "area": "245857"
+  },
+  {
+    "country": "Guinea Ecuatorial",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gq.png",
+    "population": "1358276",
+    "area": "28051"
+  },
+  {
+    "country": "Guinea-Bisáu",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gw.png",
+    "population": "1604528",
+    "area": "36125"
+  },
+  {
+    "country": "Guyana",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gy.png",
+    "population": "782766",
+    "area": "214969"
+  },
+  {
+    "country": "Haití",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ht.png",
+    "population": "11577779",
+    "area": "27750"
+  },
+  {
+    "country": "Honduras",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/hn.png",
+    "population": "9158345",
+    "area": "112492"
+  },
+  {
+    "country": "Hong Kong",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/hk.png",
+    "population": "7500700",
+    "area": "1104"
+  },
+  {
+    "country": "Hungría",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/hu.png",
+    "population": "9772756",
+    "area": "93028"
+  },
+  {
+    "country": "India",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/in.png",
+    "population": "1359072550",
+    "area": "3287260"
+  },
+  {
+    "country": "Indonesia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/id.png",
+    "population": "266911900",
+    "area": "1910930"
+  },
+  {
+    "country": "Inglaterra",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gb-eng.png",
+    "population": "55977178",
+    "area": "130279"
+  },
+  {
+    "country": "Irak",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/iq.png",
+    "population": "39127900",
+    "area": "438317"
+  },
+  {
+    "country": "Irán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ir.png",
+    "population": "83230120",
+    "area": "1648200"
+  },
+  {
+    "country": "Irlanda",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ie.png",
+    "population": "4921500",
+    "area": "70273"
+  },
+  {
+    "country": "Irlanda del Norte",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gb-nir.png",
+    "population": "1885400",
+    "area": "14130"
+  },
+  {
+    "country": "Isla Bouvet",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bv.png",
+    "population": "0",
+    "area": "49"
+  },
+  {
+    "country": "Isla de Man",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/im.png",
+    "population": "83314",
+    "area": "572"
+  },
+  {
+    "country": "Isla de Navidad",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cx.png",
+    "population": "1928",
+    "area": "135"
+  },
+  {
+    "country": "Isla Norfolk",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/nf.png",
+    "population": "1756",
+    "area": "36"
+  },
+  {
+    "country": "Islandia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/is.png",
+    "population": "364260",
+    "area": "103000"
+  },
+  {
+    "country": "Islas Caimán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ky.png",
+    "population": "65813",
+    "area": "264"
+  },
+  {
+    "country": "Islas Cocos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cc.png",
+    "population": "538",
+    "area": "14"
+  },
+  {
+    "country": "Islas Cook",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ck.png",
+    "population": "15200",
+    "area": "236"
+  },
+  {
+    "country": "Islas Feroe",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/fo.png",
+    "population": "52124",
+    "area": "1393"
+  },
+  {
+    "country": "Islas Georgias del Sur y Sándwich del Sur",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gs.png",
+    "population": "0",
+    "area": "3903"
+  },
+  {
+    "country": "Islas Heard y McDonald",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/hm.png",
+    "population": "0",
+    "area": "412"
+  },
+  {
+    "country": "Islas Malvinas",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/fk.png",
+    "population": "3198",
+    "area": "12173"
+  },
+  {
+    "country": "Islas Marianas del Norte",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mp.png",
+    "population": "56200",
+    "area": "464"
+  },
+  {
+    "country": "Islas Marshall",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mh.png",
+    "population": "55500",
+    "area": "181"
+  },
+  {
+    "country": "Islas Pitcairn",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pn.png",
+    "population": "50",
+    "area": "47"
+  },
+  {
+    "country": "Islas Salomón",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sb.png",
+    "population": "680806",
+    "area": "28896"
+  },
+  {
+    "country": "Islas Turcas y Caicos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tc.png",
+    "population": "41369",
+    "area": "948"
+  },
+  {
+    "country": "Islas Ultramarinas Menores de los Estados Unidos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/um.png",
+    "population": "300",
+    "area": "34"
+  },
+  {
+    "country": "Islas Vírgenes de los Estados Unidos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/vi.png",
+    "population": "104578",
+    "area": "347"
+  },
+  {
+    "country": "Islas Vírgenes Británicas",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/vg.png",
+    "population": "30030",
+    "area": "151"
+  },
+  {
+    "country": "Israel",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/il.png",
+    "population": "9164160",
+    "area": "20770"
+  },
+  {
+    "country": "Italia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/it.png",
+    "population": "60247214",
+    "area": "301339"
+  },
+  {
+    "country": "Jamaica",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/jm.png",
+    "population": "2726667",
+    "area": "10991"
+  },
+  {
+    "country": "Japón",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/jp.png",
+    "population": "126010000",
+    "area": "377975"
+  },
+  {
+    "country": "Jersey",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/je.png",
+    "population": "106800",
+    "area": "116"
+  },
+  {
+    "country": "Jordania",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/jo.png",
+    "population": "10622608",
+    "area": "89342"
+  },
+  {
+    "country": "Kazajistán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/kz.png",
+    "population": "18651680",
+    "area": "2724900"
+  },
+  {
+    "country": "Kenia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ke.png",
+    "population": "47564296",
+    "area": "580367"
+  },
+  {
+    "country": "Kirguistán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/kg.png",
+    "population": "6490300",
+    "area": "199951"
+  },
+  {
+    "country": "Kiribati",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ki.png",
+    "population": "120100",
+    "area": "811"
+  },
+  {
+    "country": "Kosovo",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/xk.png",
+    "population": "1795666",
+    "area": "10887"
+  },
+  {
+    "country": "Kuwait",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/kw.png",
+    "population": "4420110",
+    "area": "17818"
+  },
+  {
+    "country": "Laos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/la.png",
+    "population": "7123205",
+    "area": "236800"
+  },
+  {
+    "country": "Lesoto",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ls.png",
+    "population": "2007201",
+    "area": "30355"
+  },
+  {
+    "country": "Letonia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/lv.png",
+    "population": "1906800",
+    "area": "64559"
+  },
+  {
+    "country": "Líbano",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/lb.png",
+    "population": "6855713",
+    "area": "10452"
+  },
+  {
+    "country": "Liberia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/lr.png",
+    "population": "4475353",
+    "area": "111369"
+  },
+  {
+    "country": "Libia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ly.png",
+    "population": "6777452",
+    "area": "1759540"
+  },
+  {
+    "country": "Liechtenstein",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/li.png",
+    "population": "38557",
+    "area": "160"
+  },
+  {
+    "country": "Lituania",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/lt.png",
+    "population": "2793350",
+    "area": "65300"
+  },
+  {
+    "country": "Luxemburgo",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/lu.png",
+    "population": "613894",
+    "area": "2586"
+  },
+  {
+    "country": "Macao",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mo.png",
+    "population": "676100",
+    "area": "30"
+  },
+  {
+    "country": "Macedonia del Norte",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mk.png",
+    "population": "2077132",
+    "area": "25713"
+  },
+  {
+    "country": "Madagascar",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mg.png",
+    "population": "25680342",
+    "area": "587041"
+  },
+  {
+    "country": "Malasia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/my.png",
+    "population": "32700760",
+    "area": "330803"
+  },
+  {
+    "country": "Malawi",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mw.png",
+    "population": "17563749",
+    "area": "118484"
+  },
+  {
+    "country": "Maldivas",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mv.png",
+    "population": "374775",
+    "area": "300"
+  },
+  {
+    "country": "Malí",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ml.png",
+    "population": "19973000",
+    "area": "1240190"
+  },
+  {
+    "country": "Malta",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mt.png",
+    "population": "493559",
+    "area": "316"
+  },
+  {
+    "country": "Marruecos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ma.png",
+    "population": "35821024",
+    "area": "446550"
+  },
+  {
+    "country": "Martinica",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mq.png",
+    "population": "376480",
+    "area": "1128"
+  },
+  {
+    "country": "Mauricio",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mu.png",
+    "population": "1265985",
+    "area": "2040"
+  },
+  {
+    "country": "Mauritania",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mr.png",
+    "population": "4077347",
+    "area": "1030700"
+  },
+  {
+    "country": "Mayotte",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/yt.png",
+    "population": "279471",
+    "area": "374"
+  },
+  {
+    "country": "México",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mx.png",
+    "population": "126577691",
+    "area": "1964380"
+  },
+  {
+    "country": "Micronesia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/fm.png",
+    "population": "104468",
+    "area": "702"
+  },
+  {
+    "country": "Moldavia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/md.png",
+    "population": "2681735",
+    "area": "33846"
+  },
+  {
+    "country": "Mónaco",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mc.png",
+    "population": "38300",
+    "area": "2.02"
+  },
+  {
+    "country": "Mongolia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mn.png",
+    "population": "3304526",
+    "area": "1564110"
+  },
+  {
+    "country": "Montenegro",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/me.png",
+    "population": "622359",
+    "area": "13812"
+  },
+  {
+    "country": "Montserrat",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ms.png",
+    "population": "4989",
+    "area": "102"
+  },
+  {
+    "country": "Mozambique",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mz.png",
+    "population": "28571310",
+    "area": "801590"
+  },
+  {
+    "country": "Myanmar",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mm.png",
+    "population": "54339766",
+    "area": "676578"
+  },
+  {
+    "country": "Namibia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/na.png",
+    "population": "2458936",
+    "area": "825615"
+  },
+  {
+    "country": "Nauru",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/nr.png",
+    "population": "11000",
+    "area": "21"
+  },
+  {
+    "country": "Nepal",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/np.png",
+    "population": "29609623",
+    "area": "147181"
+  },
+  {
+    "country": "Nicaragua",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ni.png",
+    "population": "6460411",
+    "area": "130373"
+  },
+  {
+    "country": "Níger",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ne.png",
+    "population": "22314743",
+    "area": "1267000"
+  },
+  {
+    "country": "Nigeria",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ng.png",
+    "population": "200963599",
+    "area": "923768"
+  },
+  {
+    "country": "Niue",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/nu.png",
+    "population": "1520",
+    "area": "260"
+  },
+  {
+    "country": "Noruega",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/no.png",
+    "population": "5356789",
+    "area": "323802"
+  },
+  {
+    "country": "Nueva Caledonia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/nc.png",
+    "population": "282200",
+    "area": "18575"
+  },
+  {
+    "country": "Nueva Zelanda",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/nz.png",
+    "population": "4961213",
+    "area": "270467"
+  },
+  {
+    "country": "Omán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/om.png",
+    "population": "4664790",
+    "area": "309500"
+  },
+  {
+    "country": "Países Bajos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/nl.png",
+    "population": "17438081",
+    "area": "41850"
+  },
+  {
+    "country": "Pakistán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pk.png",
+    "population": "218741520",
+    "area": "907132"
+  },
+  {
+    "country": "Palaos",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pw.png",
+    "population": "17900",
+    "area": "459"
+  },
+  {
+    "country": "Palestina",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ps.png",
+    "population": "5051953",
+    "area": "6020"
+  },
+  {
+    "country": "Panamá",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pa.png",
+    "population": "4218808",
+    "area": "75417"
+  },
+  {
+    "country": "Papúa Nueva Guinea",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pg.png",
+    "population": "8935000",
+    "area": "462840"
+  },
+  {
+    "country": "Paraguay",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/py.png",
+    "population": "7152703",
+    "area": "406752"
+  },
+  {
+    "country": "Perú",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pe.png",
+    "population": "32131400",
+    "area": "1285220"
+  },
+  {
+    "country": "Polinesia Francesa",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pf.png",
+    "population": "275918",
+    "area": "4167"
+  },
+  {
+    "country": "Polonia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pl.png",
+    "population": "38386000",
+    "area": "312696"
+  },
+  {
+    "country": "Portugal",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pt.png",
+    "population": "10276617",
+    "area": "92090"
+  },
+  {
+    "country": "Puerto Rico",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pr.png",
+    "population": "3193694",
+    "area": "8870"
+  },
+  {
+    "country": "Reino Unido",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/gb.png",
+    "population": "66435600",
+    "area": "242495"
+  },
+  {
+    "country": "República Centroafricana",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cf.png",
+    "population": "5496011",
+    "area": "622984"
+  },
+  {
+    "country": "República Checa",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/cz.png",
+    "population": "10681161",
+    "area": "78865"
+  },
+  {
+    "country": "Sudáfrica",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/za.png",
+    "population": "58775022",
+    "area": "1221040"
+  },
+  {
+    "country": "República Dominicana",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/do.png",
+    "population": "10358320",
+    "area": "48671"
+  },
+  {
+    "country": "Reunión",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/re.png",
+    "population": "859959",
+    "area": "2511"
+  },
+  {
+    "country": "Ruanda",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/rw.png",
+    "population": "12374397",
+    "area": "26338"
+  },
+  {
+    "country": "Rumania",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ro.png",
+    "population": "19405156",
+    "area": "238397"
+  },
+  {
+    "country": "Rusia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ru.png",
+    "population": "146780720",
+    "area": "17098200"
+  },
+  {
+    "country": "Sahara Occidental",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/eh.png",
+    "population": "582463",
+    "area": "266000"
+  },
+  {
+    "country": "San Martín (Francia)",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/mf.png",
+    "population": "35107",
+    "area": "53"
+  },
+  {
+    "country": "Samoa",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ws.png",
+    "population": "200874",
+    "area": "2842"
+  },
+  {
+    "country": "Samoa Americana",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/as.png",
+    "population": "56700",
+    "area": "199"
+  },
+  {
+    "country": "San Bartolomé",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/bl.png",
+    "population": "9793",
+    "area": "21"
+  },
+  {
+    "country": "San Cristóbal y Nieves",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/kn.png",
+    "population": "52823",
+    "area": "261"
+  },
+  {
+    "country": "San Marino",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sm.png",
+    "population": "33574",
+    "area": "61"
+  },
+  {
+    "country": "San Pedro y Miquelón",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/pm.png",
+    "population": "6008",
+    "area": "242"
+  },
+  {
+    "country": "San Vicente y las Granadinas",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/vc.png",
+    "population": "110608",
+    "area": "389"
+  },
+  {
+    "country": "Santa Elena, Ascensión y Tristán de Acuña",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sh.png",
+    "population": "5633",
+    "area": "394"
+  },
+  {
+    "country": "Santa Lucía",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/lc.png",
+    "population": "178696",
+    "area": "616"
+  },
+  {
+    "country": "Santo Tomé y Príncipe",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/st.png",
+    "population": "201784",
+    "area": "964"
+  },
+  {
+    "country": "Senegal",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sn.png",
+    "population": "16209125",
+    "area": "196722"
+  },
+  {
+    "country": "Serbia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/rs.png",
+    "population": "6963764",
+    "area": "88361"
+  },
+  {
+    "country": "Seychelles",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sc.png",
+    "population": "97625",
+    "area": "452"
+  },
+  {
+    "country": "Sierra Leona",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sl.png",
+    "population": "7901454",
+    "area": "71740"
+  },
+  {
+    "country": "Singapur",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sg.png",
+    "population": "5703600",
+    "area": "716"
+  },
+  {
+    "country": "San Martín (Países Bajos)",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sx.png",
+    "population": "40614",
+    "area": "34"
+  },
+  {
+    "country": "Siria",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sy.png",
+    "population": "17070135",
+    "area": "185180"
+  },
+  {
+    "country": "Somalia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/so.png",
+    "population": "15442905",
+    "area": "637657"
+  },
+  {
+    "country": "Sri Lanka",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/lk.png",
+    "population": "21803000",
+    "area": "65610"
+  },
+  {
+    "country": "Suazilandia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sz.png",
+    "population": "1093238",
+    "area": "17364"
+  },
+  {
+    "country": "Sudán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sd.png",
+    "population": "42295645",
+    "area": "1861480"
+  },
+  {
+    "country": "Sudán del Sur",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ss.png",
+    "population": "12778250",
+    "area": "644329"
+  },
+  {
+    "country": "Suecia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/se.png",
+    "population": "10327589",
+    "area": "450295"
+  },
+  {
+    "country": "Suiza",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ch.png",
+    "population": "8586550",
+    "area": "41284"
+  },
+  {
+    "country": "Surinam",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sr.png",
+    "population": "581372",
+    "area": "163820"
+  },
+  {
+    "country": "Svalbard y Jan Mayen",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/sj.png",
+    "population": "0",
+    "area": "61022"
+  },
+  {
+    "country": "Tailandia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/th.png",
+    "population": "66474267",
+    "area": "513120"
+  },
+  {
+    "country": "Taiwán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tw.png",
+    "population": "23604265",
+    "area": "36193"
+  },
+  {
+    "country": "Tanzania",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tz.png",
+    "population": "55890747",
+    "area": "945087"
+  },
+  {
+    "country": "Tayikistán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tj.png",
+    "population": "9127000",
+    "area": "143100"
+  },
+  {
+    "country": "Territorio Británico del Océano Índico",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/io.png",
+    "population": "0",
+    "area": "60"
+  },
+  {
+    "country": "Tierras Australes y Antárticas Francesas",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tf.png",
+    "population": "0",
+    "area": "7747"
+  },
+  {
+    "country": "Timor Oriental",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tl.png",
+    "population": "1387149",
+    "area": "14919"
+  },
+  {
+    "country": "Tokelau",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tk.png",
+    "population": "1400",
+    "area": "12"
+  },
+  {
+    "country": "Togo",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tg.png",
+    "population": "7538000",
+    "area": "56785"
+  },
+  {
+    "country": "Tonga",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/to.png",
+    "population": "100651",
+    "area": "747"
+  },
+  {
+    "country": "Trinidad y Tobago",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tt.png",
+    "population": "1363985",
+    "area": "5130"
+  },
+  {
+    "country": "Túnez",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tn.png",
+    "population": "11722038",
+    "area": "163610"
+  },
+  {
+    "country": "Turkmenistán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tm.png",
+    "population": "5942089",
+    "area": "488100"
+  },
+  {
+    "country": "Turquía",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tr.png",
+    "population": "83154997",
+    "area": "783562"
+  },
+  {
+    "country": "Tuvalu",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/tv.png",
+    "population": "10200",
+    "area": "26"
+  },
+  {
+    "country": "Ucrania",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ua.png",
+    "population": "41902416",
+    "area": "603500"
+  },
+  {
+    "country": "Uganda",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ug.png",
+    "population": "40299300",
+    "area": "241550"
+  },
+  {
+    "country": "Uruguay",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/uy.png",
+    "population": "3518552",
+    "area": "176215"
+  },
+  {
+    "country": "Uzbekistán",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/uz.png",
+    "population": "34034952",
+    "area": "447400"
+  },
+  {
+    "country": "Vanuatu",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/vu.png",
+    "population": "304500",
+    "area": "12189"
+  },
+  {
+    "country": "Venezuela",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ve.png",
+    "population": "32219521",
+    "area": "916445"
+  },
+  {
+    "country": "Vietnam",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/vn.png",
+    "population": "96208984",
+    "area": "331212"
+  },
+  {
+    "country": "Wallis y Futuna",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/wf.png",
+    "population": "11700",
+    "area": "142"
+  },
+  {
+    "country": "Yemen",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/ye.png",
+    "population": "29161922",
+    "area": "527968"
+  },
+  {
+    "country": "Zambia",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/zm.png",
+    "population": "17381168",
+    "area": "752612"
+  },
+  {
+    "country": "Zimbabue",
+    "img": "https://www.banderas-mundo.es/data/flags/w1160/zw.png",
+    "population": "15159624",
+    "area": "390757"
+  }
+]
